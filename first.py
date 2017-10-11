@@ -20,7 +20,7 @@ from sqlalchemy.ext.declarative import *
 from sqlalchemy.ext.declarative import declarative_base
 PROJECT_ID = 'vernal-bonfire-179320'
 CLOUDSQL_USER = 'root'
-CLOUDSQL_PASSWORD = 'admin'
+CLOUDSQL_PASSWORD = 'Rfpz7#85'
 CLOUDSQL_DATABASE = 'elevation_traffic'
 CLOUDSQL_CONNECTION_NAME = 'vernal-bonfire-179320:us-central1:elevationgaming1'
 e = create_engine('mysql+pymysql://{user}:{password}@130.211.122.176/{database}?unix_socket=/cloudsql/{connection_name}'.format(
